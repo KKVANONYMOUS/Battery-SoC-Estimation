@@ -29,3 +29,8 @@ Or use any python IDE (spyder/ jupyter notebook) and run the main.py file.
     - python3
     - numpy
     - matplotlib
+    
+## Group Members
+- Gaurav Meena (19085032)
+- Kajal Pathriyal (19085041)
+- Kunal Kumar Verma (19085050)
