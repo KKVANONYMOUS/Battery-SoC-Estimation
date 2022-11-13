@@ -1,4 +1,4 @@
-# Battrery-SOC-Kalman
+# Battery-SoC-Estimation
 
 This is the Battery SoC Estimation code for EE-401 Lab
 
